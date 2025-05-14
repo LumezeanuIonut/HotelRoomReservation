@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE88E7F-0590-411E-A2B1-027B4612BCE8}|RoomManagementAPI.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementapi\\controllers\\roommanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE88E7F-0590-411E-A2B1-027B4612BCE8}|RoomManagementAPI.csproj|solutionrelative:controllers\\roommanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE88E7F-0590-411E-A2B1-027B4612BCE8}|RoomManagementAPI.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementapi\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE88E7F-0590-411E-A2B1-027B4612BCE8}|RoomManagementAPI.csproj|solutionrelative:models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE88E7F-0590-411E-A2B1-027B4612BCE8}|RoomManagementAPI.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementapi\\models\\roommanagementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE88E7F-0590-411E-A2B1-027B4612BCE8}|RoomManagementAPI.csproj|solutionrelative:models\\roommanagementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE88E7F-0590-411E-A2B1-027B4612BCE8}|RoomManagementAPI.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementapi\\roommanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AFE88E7F-0590-411E-A2B1-027B4612BCE8}|RoomManagementAPI.csproj|solutionrelative:roommanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE88E7F-0590-411E-A2B1-027B4612BCE8}|RoomManagementAPI.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE88E7F-0590-411E-A2B1-027B4612BCE8}|RoomManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomManagementAPI.http",
+              "DocumentMoniker": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\RoomManagementAPI.http",
+              "RelativeDocumentMoniker": "RoomManagementAPI.http",
+              "ToolTip": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\RoomManagementAPI.http",
+              "RelativeToolTip": "RoomManagementAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-14T19:34:55.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "Models\\RoomType.cs",
+              "ToolTip": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\Models\\RoomType.cs",
+              "RelativeToolTip": "Models\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:13:04.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomManagementModel.cs",
+              "DocumentMoniker": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\Models\\RoomManagementModel.cs",
+              "RelativeDocumentMoniker": "Models\\RoomManagementModel.cs",
+              "ToolTip": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\Models\\RoomManagementModel.cs",
+              "RelativeToolTip": "Models\\RoomManagementModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:11:03.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\Controllers\\RoomManagementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomManagementController.cs",
+              "ToolTip": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\Controllers\\RoomManagementController.cs",
+              "RelativeToolTip": "Controllers\\RoomManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:10:17.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:48:54.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

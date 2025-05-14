@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YDAMYt4N8BJOEYhizLMnd+JXCvmfxaQRI+KqlmYWN1w=",
+  "Source": "RoomManagementAPI",
+  "BasePath": "_content/RoomManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

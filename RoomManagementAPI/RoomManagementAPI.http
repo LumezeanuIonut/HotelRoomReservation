@@ -1,0 +1,6 @@
+@RoomManagementAPI_HostAddress = http://localhost:5208
+
+GET {{RoomManagementAPI_HostAddress}}/api/RoomManagement
+Accept: application/json
+
+###

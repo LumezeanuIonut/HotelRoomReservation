@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "RoomManagementAPI.Controllers.RoomManagementController",
+    "Method": "GetRoomManagement",
+    "RelativePath": "api/RoomManagement",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
