@@ -15,5 +15,9 @@
             amenities = _amenities;
             features = _features;
         }
+        public RoomType()
+        {
+            
+        }
     }
 }
