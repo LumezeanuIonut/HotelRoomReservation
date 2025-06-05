@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementConsoleInterface\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementconsoleinterface\\services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|solutionrelative:services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementconsoleinterface\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|solutionrelative:services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementconsoleinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementconsoleinterface\\models\\roommanagementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|solutionrelative:models\\roommanagementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementconsoleinterface\\services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|solutionrelative:services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|c:\\users\\40767\\desktop\\hotelroomreservation\\roommanagementconsoleinterface\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A22BB4-42D5-4EDF-A2C6-AD2D4CEE9110}|RoomManagementConsoleInterface.csproj|solutionrelative:services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 156,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RoomManagementModel.cs",
               "DocumentMoniker": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementConsoleInterface\\Models\\RoomManagementModel.cs",
               "RelativeDocumentMoniker": "Models\\RoomManagementModel.cs",
@@ -51,52 +51,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HotelService.cs",
               "DocumentMoniker": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementConsoleInterface\\Services\\HotelService.cs",
               "RelativeDocumentMoniker": "Services\\HotelService.cs",
               "ToolTip": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementConsoleInterface\\Services\\HotelService.cs",
               "RelativeToolTip": "Services\\HotelService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T09:53:21.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "SearchService.cs",
               "DocumentMoniker": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementConsoleInterface\\Services\\SearchService.cs",
               "RelativeDocumentMoniker": "Services\\SearchService.cs",
               "ToolTip": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementConsoleInterface\\Services\\SearchService.cs",
               "RelativeToolTip": "Services\\SearchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T12:38:31.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AvailabilityService.cs",
               "DocumentMoniker": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementConsoleInterface\\Services\\AvailabilityService.cs",
               "RelativeDocumentMoniker": "Services\\AvailabilityService.cs",
               "ToolTip": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementConsoleInterface\\Services\\AvailabilityService.cs",
               "RelativeToolTip": "Services\\AvailabilityService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T12:38:48.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementConsoleInterface\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\40767\\Desktop\\HotelRoomReservation\\RoomManagementConsoleInterface\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwEUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T09:18:53.25Z",
               "EditorCaption": ""

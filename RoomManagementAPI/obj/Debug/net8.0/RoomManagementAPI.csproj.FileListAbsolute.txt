@@ -36,3 +36,5 @@ C:\Users\40767\Desktop\HotelRoomReservation\RoomManagementAPI\obj\Debug\net8.0\r
 C:\Users\40767\Desktop\HotelRoomReservation\RoomManagementAPI\obj\Debug\net8.0\RoomManagementAPI.pdb
 C:\Users\40767\Desktop\HotelRoomReservation\RoomManagementAPI\obj\Debug\net8.0\RoomManagementAPI.genruntimeconfig.cache
 C:\Users\40767\Desktop\HotelRoomReservation\RoomManagementAPI\obj\Debug\net8.0\ref\RoomManagementAPI.dll
+C:\Users\40767\Desktop\HotelRoomReservation\RoomManagementAPI\bin\Debug\net8.0\JsonFiles\bookings.json
+C:\Users\40767\Desktop\HotelRoomReservation\RoomManagementAPI\bin\Debug\net8.0\JsonFiles\hotels.json

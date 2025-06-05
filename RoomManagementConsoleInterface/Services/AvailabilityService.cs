@@ -16,12 +16,12 @@ namespace RoomManagementConsoleInterface.Services
             _httpClient = httpClient;
         }
 
-        public async Task<RoomManagementModel> GetRoomAvailabilityAsync(string hotelId, DateTime startDate, DateTime endDate,string roomType)
+        public async Task<RoomManagementModel> GetRoomAvailabilityAsync(string hotelId, DateTime startDate, DateTime endDate, string roomType)
         {
-            var hotels = await _httpClient.GetFromJsonAsync<RoomManagementModel>($"/api/Availability");
-            if (hotels.IsSuccessStatusCode)
+            var availability = await _httpClient.GetFromJsonAsync<RoomManagementModel>($"/api/Availability");
+            if (availability != null)
             {
-                return await hotels.Content.ReadFromJsonAsync<RoomManagementModel>();
+                return availability;
             }
             else
             {

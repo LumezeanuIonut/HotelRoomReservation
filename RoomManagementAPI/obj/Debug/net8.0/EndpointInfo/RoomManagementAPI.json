@@ -5,10 +5,69 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/RoomManagement": {
+    "/api/RoomManagement/Availability": {
       "get": {
         "tags": [
           "RoomManagement"
+        ],
+        "parameters": [
+          {
+            "name": "hotelIdAvailable",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "period",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "roomTypeAvailable",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/RoomManagement/Search": {
+      "get": {
+        "tags": [
+          "RoomManagement"
+        ],
+        "parameters": [
+          {
+            "name": "hotelIdAvailable",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "numberOfDays",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "roomTypeAvailable",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
         ],
         "responses": {
           "200": {

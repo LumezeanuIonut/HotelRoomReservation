@@ -1,12 +1,54 @@
 [
   {
     "ContainingType": "RoomManagementAPI.Controllers.RoomManagementController",
-    "Method": "GetRoomManagement",
-    "RelativePath": "api/RoomManagement",
+    "Method": "GetRoomsAvailable",
+    "RelativePath": "api/RoomManagement/Availability",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "hotelIdAvailable",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "period",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "roomTypeAvailable",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoomManagementAPI.Controllers.RoomManagementController",
+    "Method": "GetRoomsSearch",
+    "RelativePath": "api/RoomManagement/Search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hotelIdAvailable",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "numberOfDays",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "roomTypeAvailable",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   }
 ]
